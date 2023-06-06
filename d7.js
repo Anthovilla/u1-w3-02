@@ -90,3 +90,8 @@ const makeItClickable = function (){
 //        el.
 //    ])
 }
+
+/*10*/
+const revealFooterLink = function () {
+    
+}
